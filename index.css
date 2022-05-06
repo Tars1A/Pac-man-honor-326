@@ -1,0 +1,14 @@
+@font-face {
+    font-family: git;
+    src: url(/crackman/crackman\ front.ttf);
+}
+
+body{
+    background-color: black;
+}
+p{
+    color: white;
+    font-family: git;
+    font-size:20px;
+    margin-left: 20%;
+}
